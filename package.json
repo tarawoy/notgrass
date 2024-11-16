@@ -9,7 +9,9 @@
   "dependencies": {
     "ws": "^8.13.0",
     "uuid": "^9.0.0",
-    "faker": "^6.3.1",
+    "@faker-js/faker": "^7.0.0",
     "loglevel": "^1.8.1"
-  }
+  },
+  "author": "",
+  "license": "ISC"
 }

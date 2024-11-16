@@ -1,6 +1,6 @@
 const WebSocket = require('ws');
 const uuid = require('uuid');
-const faker = require('faker'); // For generating random user-agent
+const { faker } = require('@faker-js/faker'); // Updated to use the new faker package
 const log = require('loglevel');
 const readline = require('readline');
 

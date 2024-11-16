@@ -16,8 +16,6 @@ No proxy
 3. Clone this repository. You can use the following command:
    ```shell
    git clone https://github.com/tarawoy/notgrass
-   If this method doesn't work, simply save this repository as a zip file. You can find it in the code section at the top right.
-   Then, unzip it and copy the path to Powershell and type "cd your path".
    ```
 
 4. Enter the `notgrass` folder:

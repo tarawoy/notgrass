@@ -1,4 +1,4 @@
 ws
 uuid
-faker
+@faker-js/faker
 loglevel
